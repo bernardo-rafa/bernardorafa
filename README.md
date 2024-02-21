@@ -3,7 +3,7 @@
 
 
 
-- 🌱 <strong> Cursando o  Programa Starter Dev Full Stack 8º edição </strong> 
+- 🌱 <strong> Cursando o  Programa Starter Dev Full Stack </strong> 
 - 💼 <strong> Experiencias profissionais:</strong> Ja trabalhei em uma metalurgica por 4 anos e nas horas vagas trabalhava como segurança.
 - 😄 Pronouns: ele/dele
 - 📚 <strong> Atualmente estou Estudando:</strong> HTML5 
